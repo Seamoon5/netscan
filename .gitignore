@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Scan reports produced by netscan itself
+*.json
+*.txt
+!README.md
